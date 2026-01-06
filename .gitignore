@@ -1,0 +1,13 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.log
+
+# Editor swap files
+*.swp
+*.swx
+
+# AWS downloads
+aws/
+awscliv2.zip
