@@ -3,11 +3,10 @@
 *.tfstate
 *.tfstate.backup
 *.log
-
+.terraform.lock.hcl
 # Editor swap files
 *.swp
 *.swx
-
 # AWS downloads
 aws/
 awscliv2.zip
